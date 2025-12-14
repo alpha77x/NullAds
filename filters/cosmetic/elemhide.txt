@@ -1,2 +1,2 @@
 ! tvwiki
-/https?:\/\/tvwiki[0-9]+\.net##.layer-footer/
+/https?:\/\/tvwiki[0-9]+.net##.layer-footer
