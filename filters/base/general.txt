@@ -1,0 +1,1 @@
+/https?:\/\/tvwiki[0-9]+\.net\/data\/banner\//$domain=/tvwiki[0-9]+\.net/
